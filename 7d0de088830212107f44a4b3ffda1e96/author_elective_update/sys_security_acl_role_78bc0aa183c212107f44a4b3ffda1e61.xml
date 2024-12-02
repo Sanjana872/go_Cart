@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-23 12:50:15</sys_created_on>
+        <sys_id>78bc0aa183c212107f44a4b3ffda1e61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_gocart_ai_devices.owned_by.x_snc_gocart.release_management</sys_name>
+        <sys_package display_value="goCart" source="x_snc_gocart">7d0de088830212107f44a4b3ffda1e96</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="goCart">7d0de088830212107f44a4b3ffda1e96</sys_scope>
+        <sys_security_acl display_value="x_snc_gocart_ai_devices.owned_by">ee7b826183c212107f44a4b3ffda1ef5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_78bc0aa183c212107f44a4b3ffda1e61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-23 12:50:15</sys_updated_on>
+        <sys_user_role display_value="x_snc_gocart.release_management" name="x_snc_gocart.release_management">b79de008830212107f44a4b3ffda1ecc</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="goCart">7d0de088830212107f44a4b3ffda1e96</application>
+        <file_path/>
+        <instance_id>9eee46bb47b95610ad588549116d43f2</instance_id>
+        <instance_name>nowlearning-nlinst02236418-0001</instance_name>
+        <name>sys_security_acl_role_78bc0aa183c212107f44a4b3ffda1e61</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-23 12:50:15</sys_created_on><sys_id>78bc0aa183c212107f44a4b3ffda1e61</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_gocart_ai_devices.owned_by.x_snc_gocart.release_management</sys_name><sys_package display_value="goCart" source="x_snc_gocart">7d0de088830212107f44a4b3ffda1e96</sys_package><sys_policy/><sys_scope display_value="goCart">7d0de088830212107f44a4b3ffda1e96</sys_scope><sys_security_acl display_value="x_snc_gocart_ai_devices.owned_by">ee7b826183c212107f44a4b3ffda1ef5</sys_security_acl><sys_update_name>sys_security_acl_role_78bc0aa183c212107f44a4b3ffda1e61</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-23 12:50:15</sys_updated_on><sys_user_role display_value="x_snc_gocart.release_management" name="x_snc_gocart.release_management">b79de008830212107f44a4b3ffda1ecc</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1187428923</payload_hash>
+        <record_name>x_snc_gocart_ai_devices.owned_by.x_snc_gocart.release_management</record_name>
+        <reverted_from/>
+        <source>ebc4dd0083c212107f44a4b3ffda1e00</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-23 12:50:15</sys_created_on>
+        <sys_id>80cc4aa183c212107f44a4b3ffda1eee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1935912a86b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-23 12:50:15</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c4cc4aa194c212107d0a9c7854aa89ed</update_guid>
+        <update_guid_history>c4cc4aa194c212107d0a9c7854aa89ed:-1187428923</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_gocart_ai_devices.owned_by.x_snc_gocart.release_management">f37d0ee183c212107f44a4b3ffda1e27</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-23 12:53:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>a76cddaaf0784e94975981b1df8bb501</sys_id>
+        <sys_metadata>78bc0aa183c212107f44a4b3ffda1e61</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_gocart_ai_devices.owned_by.x_snc_gocart.release_management</sys_name>
+        <sys_package display_value="goCart" source="x_snc_gocart">7d0de088830212107f44a4b3ffda1e96</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="goCart">7d0de088830212107f44a4b3ffda1e96</sys_scope>
+        <sys_scope_delete display_value="">3169d0c5c1c14e40be9c4779de661000</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_78bc0aa183c212107f44a4b3ffda1e61</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_78bc0aa183c212107f44a4b3ffda1e61">80cc4aa183c212107f44a4b3ffda1eee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-23 12:53:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
