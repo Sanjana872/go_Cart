@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_reference_3" label="Requestor Name" language="en" table="x_snc_gocart_device_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_reference_3</element>
+            <help/>
+            <hint/>
+            <label>Requestor Name</label>
+            <language>en</language>
+            <name>x_snc_gocart_device_request</name>
+            <plural>Requestor Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-19 19:54:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requestor Name</sys_name>
+            <sys_package display_value="goCart" source="x_snc_gocart">7d0de088830212107f44a4b3ffda1e96</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="goCart">7d0de088830212107f44a4b3ffda1e96</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_gocart_device_request_u_reference_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-19 19:54:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
