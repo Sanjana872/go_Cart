@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <source_scope display_value="goCart">7d0de088830212107f44a4b3ffda1e96</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 07:33:49</sys_created_on>
+        <sys_id>d4875b86838212107f44a4b3ffda1e12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sc_task</sys_name>
+        <sys_package display_value="goCart" source="x_snc_gocart">7d0de088830212107f44a4b3ffda1e96</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="goCart">7d0de088830212107f44a4b3ffda1e96</sys_scope>
+        <sys_update_name>sys_scope_privilege_d4875b86838212107f44a4b3ffda1e12</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 07:33:49</sys_updated_on>
+        <target_name>sc_task</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>
