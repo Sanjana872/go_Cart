@@ -5,10 +5,10 @@ goCart is a service now Application which helps user to order AI devices and aut
 
 ## Tables 
 
-It involves mainly the creation of two Tables such as AI Devices and Device Request Table 
+It involves mainly the creation of two Tables such as AI Devices and Device Request Table and we have extended the table from Task Table
 
 ### AI Devices 
-The AI Device Table Consists of Fields such as Name, Manufacturer, Device Category, Model No, Owned By, Price amnd Warranty
+The AI Device Table Consists of Fields such as Name, Manufacturer, Device Category, Model No, Owned By, Price and Warranty
 
 ![image](https://github.com/Sanjana872/go_Cart/blob/826eae09eb8688dfc828a15c274cdf43c213df19/Photos/AI%20Devices.jpg)
 This are the devices which the user can order present in AI devices list View
@@ -20,7 +20,13 @@ This is the form view of the AI Devices
 The AI Device Table Consists of Fields such as Number, Device Name, Requestor Name, Company, Quantity, Business Justification, Quantity, state, Cost 
 Also In next section it Contains of Device Details and Delivery Details
 In Device Details it consist of Model, New Price and Device Description
+In Delivery Details it consists information about Delivery.
 
+![image](https://github.com/Sanjana872/go_Cart/blob/20db3614624f5391ffcf3fb5a3b8795dea749361/Photos/Device%20Requests%20list.jpg)
+This is the List View of the Device Request Table.
+
+![image](https://github.com/Sanjana872/go_Cart/blob/20db3614624f5391ffcf3fb5a3b8795dea749361/Photos/Device%20Request%20Form%20View.jpg)
+Here we have taken the field Device Name as Reference Field from The AI Devices Table
 
 
 
